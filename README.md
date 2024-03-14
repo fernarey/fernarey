@@ -9,7 +9,7 @@
 [![Reyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernarey&show_icons=true&theme=graywhite&hide=stars&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fernarey&repo=saintsblade-TTRPG&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fernarey&repo=saintsblade-TTRPG&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 fernarey/fernarey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
