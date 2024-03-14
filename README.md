@@ -6,10 +6,10 @@
 
 <⚔️> Lead co-developer & creative director of Saintsblade TTRPG
 
-[![Reyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernarey&show_icons=true&theme=graywhite&hide=stars&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=white)
+
+[![Reyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernarey&show_icons=true&theme=graywhite&hide=stars&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fernarey&repo=saintsblade-TTRPG&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
