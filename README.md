@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=43&duration=3000&pause=1500&color=5938DA&vCenter=true&random=false&width=435&lines=Hey!+My+name's+Reyna!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=43&duration=3000&pause=1500&color=7F2E3E&vCenter=true&random=false&width=435&lines=Hey!+My+name's+Reyna!)](https://git.io/typing-svg)
 
 <☔> I am currently a second-year English Lit. & Informatics student at the University of Washington
 
