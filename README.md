@@ -6,6 +6,10 @@
 
 <⚔️> Lead co-developer & creative director of Saintsblade TTRPG
 
+![Static Badge](https://img.shields.io/badge/University_of_Washington_2026-533775?style=for-the-badge&color=%23533775)
+![Static Badge](https://img.shields.io/badge/Lobster_Sauce_Productions-5c281f?style=for-the-badge&color=%235c281f)
+
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=white)
 
