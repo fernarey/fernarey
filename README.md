@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=43&duration=3000&pause=1500&color=FFFFFF&vCenter=true&random=false&width=435&lines=Hey!+My+name's+Reyna!)](https://git.io/typing-svg)
 
-<☔> Second-year English Lit. & Informatics student at the University of Washington
+<☔> Rising third-year English CW & Informatics student at the University of Washington
 
 <🦞> Founder of Lobster Sauce Productions, @2023–2024
 
