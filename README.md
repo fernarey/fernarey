@@ -4,7 +4,7 @@
 
 <🦞> Founder of Lobster Sauce Productions, @2023–2024
 
-<⚔️> Creative director & lead co-developer of Saintsblade TTRPG
+<⚔️> Creative director & lead co-developer of PageByPage
 
 ![Static Badge](https://img.shields.io/badge/University_of_Washington_2026-533775?style=for-the-badge&color=%23533775)
 ![Static Badge](https://img.shields.io/badge/Lobster_Sauce_Productions-5c281f?style=for-the-badge&color=%235c281f)
