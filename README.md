@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=43&duration=3000&pause=1500&color=FFFFFF&vCenter=true&random=false&width=435&lines=Hey!+My+name's+Reyna!)](https://git.io/typing-svg)
 
-<☔> Rising third-year Informatics & English CW student at the University of Washington
+<☔> English & Political Science graduate from the University of Washington
 
-<🦞> Founder of Lobster Sauce Productions, @2023–2024
+<🦞> Founder of Lobster Sauce Productions, @2023–2026
 
 <⚔️> Creative director & lead co-developer of PageByPage
 
